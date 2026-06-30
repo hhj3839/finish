@@ -1,0 +1,6 @@
+{
+  "name": "다했어요",
+  "description": "초등학교 학생들이 활동을 완료하고 손쉽게 이름을 체크할 수 있는 '다했어요' 프로그램. 교사를 위한 명단 수정, 통계 시각화 및 엑셀 다운로드 기능 포함.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
